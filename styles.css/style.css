@@ -245,10 +245,7 @@ body {
     }
 
     .apresentacao__links__navegacacao {
-        font-size: 20px;
+        width: 50%;
+        justify-content: center;
+        font-size:medium;
     }
-
-    .imagem__logo{
-        width: 30%;
-    }
-}
