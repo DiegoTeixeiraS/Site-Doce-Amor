@@ -158,7 +158,8 @@ body {
 .apresentacao__links__navegacacao:hover {
     color: var(--cor-destaque);
 }
-
+@media (max-width: 1200px) {
+   
     body {
         background: linear-gradient(to bottom, var(--cor-fundo));
     }
