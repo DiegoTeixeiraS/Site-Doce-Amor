@@ -245,7 +245,7 @@ body {
     }
 
     .apresentacao__links__navegacacao {
-        width: auto%;
+        width: auto;
         justify-content: center;
         font-size:medium;
         display: grid;
