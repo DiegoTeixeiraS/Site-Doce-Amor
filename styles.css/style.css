@@ -248,5 +248,10 @@ body {
         width: auto;
         justify-content: center;
         font-size:medium;
-        display: grid;
     }
+
+    .apresentacao__links__navegacacao img {
+        width: 1em;
+        height: auto;
+    }
+        
