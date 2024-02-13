@@ -247,5 +247,6 @@ body {
     .apresentacao__links__navegacacao {
         width: 50%;
         justify-content: center;
-        font-size:auto;
+        font-size:medium;
+        width: 18px;
     }
