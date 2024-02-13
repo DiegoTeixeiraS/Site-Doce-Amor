@@ -248,5 +248,5 @@ body {
         width: 50%;
         justify-content: center;
         font-size:medium;
-        width: auto;
+        display: flex;
     }
